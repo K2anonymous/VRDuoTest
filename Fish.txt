@@ -1,3 +1,5 @@
+Salt water
+---------
 Whale Shark
 Manta Ray
 Hammerhead Shark
@@ -17,3 +19,9 @@ Watchman Goby
 Grouper
 Red Snapper
 Flounder
+
+Freshwater
+----------
+bass
+catfish
+crappie
