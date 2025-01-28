@@ -25,3 +25,7 @@ Freshwater
 bass
 catfish
 crappie
+trout
+steelhead trout
+cut throat trout
+grayling
